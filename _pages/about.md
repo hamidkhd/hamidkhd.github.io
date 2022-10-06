@@ -10,8 +10,8 @@ redirect_from:
 
 ## Academic Background
 
-I am Hamidreza Khodadadi, a Computer Engineering B.Sc. at the University of Tehran and a research assistant in the Data Analytics Laboratory of the University of Tehran under the supervision of [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak), I worked on an article related to detecting Monero cryptocurrency miners in the network.
-My bachelor's thesis under the supervision of [Dr. Nili] (https://ece.ut.ac.ir/en/~mnili) at Cognitive Systems Laboratory is about how social learning will outperform individual learning in the MDP environment.
+I am Hamidreza Khodadadi, a Computer Engineering B.Sc. at the [University of Tehran](https://ut.ac.ir/en) and a research assistant in the Data Analytics Laboratory under the supervision of [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak), I worked on an article related to detecting Monero cryptocurrency miners in the network.
+My bachelor's thesis under the supervision of [Dr. Nili](https://ece.ut.ac.ir/en/~mnili) at Cognitive Systems Laboratory is about how social learning will outperform individual learning in the MDP environment.
 
 
 ## Research Interestes
