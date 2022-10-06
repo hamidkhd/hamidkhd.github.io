@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me
+## About me
 
-I am Hamid Reza Khodadadi.
+I am Hamidreza Khodadadi, a Computer Engineering B.Sc. at the University of Tehran and a research assistant in the Data Analytics Laboratory of the University of Tehran under the supervision of [Dr. Bahrak](https://ece.ut.ac.ir/en/~bahrak), I worked on an article related to detecting Monero cryptocurrency miners in the network.
+My bachelor's thesis under the supervision of [Dr. Nili] (https://ece.ut.ac.ir/en/~mnili) at Cognitive Systems Laboratory is about how social learning will outperform individual learning in the MDP environment.
+
+
+## Research Interestes
+
+I'm interested in Reinforcement Learning, Machine Learning applications, Artificial Intelligence, Data analysis, Deep Learning, and Blockchain research fields.
