@@ -11,4 +11,4 @@ author_profile: true
 ### Teaching Experience
 
 - Head Teaching Assistant
--- Artificial Intelligence, [Y. Yaghoobzadeh](https://ece.ut.ac.ir/en/~105908695), [H. Fadaei](https://ece.ut.ac.ir/en/~students/h.fadaei), (Spring 2022 - Fall 2022)
+  - Artificial Intelligence, [Y. Yaghoobzadeh](https://ece.ut.ac.ir/en/~105908695), [H. Fadaei](https://ece.ut.ac.ir/en/~students/h.fadaei), (Spring 2022 - Fall 2022)
