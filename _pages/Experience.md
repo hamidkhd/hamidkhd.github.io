@@ -8,6 +8,11 @@ author_profile: true
 ### Education
 - BSc. In Computer Engineering (Software Engineering Major), [College of Electric and Computer Engineering, University of Tehran](https://ece.ut.ac.ir/) (Sep. 2018 - Now)
 
+### Research Experience
+
+- Cognitive Systems Lab, University of Tehran, under the supervision of [Dr. Nili](https://ece.ut.ac.ir/~mnili) ,(Apr. 2022 - Now)
+- Data Analytics Lab, University of Tehran, under the supervision of [Dr. Bahrak](https://profile.ut.ac.ir/en/~bahrak) ,(Jul. 2022 - Now)
+
 ### Teaching Experience
 
 - Head Teaching Assistant
@@ -22,7 +27,4 @@ author_profile: true
   - Compiler design and programming languages, [S. Tavassoli], (Spring 2022)
   - Introduction to Computing Systems and Programming, [M. Hashemi](https://ece.ut.ac.ir/en/~rhashemi), [M. Moradi](https://ece.ut.ac.ir/en/~moradih), (Fall 2020)
 
-### Research Experience
 
-- Cognitive Systems Lab, University of Tehran, under the supervision of [Dr. Nili](https://ece.ut.ac.ir/~mnili) ,(Apr. 2022 - Now)
-- Data Analytics Lab, University of Tehran, under the supervision of [Dr. Bahrak](https://profile.ut.ac.ir/en/~bahrak) ,(Jul. 2022 - Now)
