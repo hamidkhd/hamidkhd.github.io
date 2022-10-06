@@ -24,7 +24,7 @@ author_profile: true
   - Computer Architecture, [S. Safari](https://ece.ut.ac.ir/en/~saeed), (Spring 2021 - Fall 2021)
   - Computer Architecture Lab, [S. Safari](https://ece.ut.ac.ir/en/~saeed), (Fall 2021)
   - Introduction to Software Testing, [E. Khamespanah](https://ece.ut.ac.ir/en/~e.khamespanah), (Fall 2022)
-  - Compiler design and programming languages, [S. Tavassoli], (Spring 2022)
+  - Compiler design and programming languages, S. Tavassoli, (Spring 2022)
   - Introduction to Computing Systems and Programming, [M. Hashemi](https://ece.ut.ac.ir/en/~rhashemi), [M. Moradi](https://ece.ut.ac.ir/en/~moradih), (Fall 2020)
 
 
