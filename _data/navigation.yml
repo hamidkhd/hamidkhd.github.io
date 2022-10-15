@@ -12,8 +12,8 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
         
-  - title: "Notable Academic Projects"
-    url: /projects/
+#   - title: "Notable Academic Projects"
+#     url: /projects/
     
   - title: "CV"
     url: /cv/
