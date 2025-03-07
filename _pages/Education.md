@@ -5,8 +5,10 @@ permalink: /Education/
 author_profile: true
 ---
 
-BSc. In Computer Engineering (Software Engineering Major), [College of Electric and Computer Engineering, University of Tehran](https://ece.ut.ac.ir/) (Sep. 2018 - Now)
-- GPA of Last Two Years: 18.65/20 (3.95/4)
+M.Sc. In Computer Science and Engineering (Artificial Intelligence Major), [College of Computer Science and Engineering, Politecnico di Milano](https://www.deib.polimi.it/eng/computer-science-and-engineering) (Sep. 2024 -Now)
+  
+B.Sc. In Computer Engineering (Software Engineering Major), [College of Electric and Computer Engineering, University of Tehran](https://ece.ut.ac.ir/) (Sep. 2018 - Jul. 2023)
+- GPA of Last Two Years: 18.65/20 (3.87/4)
 - Cum. GPA: 3.35/4
 - Related courses: 
   - Artificial Intelligence: 19.5/20
