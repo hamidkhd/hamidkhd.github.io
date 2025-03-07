@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### Education
-- BSc. In Computer Engineering (Software Engineering Major), [College of Electric and Computer Engineering, University of Tehran](https://ece.ut.ac.ir/) (Sep. 2018 - Now)
+- M.Sc. In Computer Science and Engineering (Artificial Intelligence Major), College of Computer Science and Engineering, Politecnico di Milano (Sep. 2024 - Now)
+- BSc. In Computer Engineering (Software Engineering Major), [College of Electric and Computer Engineering, University of Tehran](https://ece.ut.ac.ir/) (Sep. 2018 - Jul. 2023)
 
 ### Research Experience
 
