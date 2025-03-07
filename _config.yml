@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "Hamidreza Khodadadi"
   avatar           : "profile.jfif"
-  bio              : "Computer Engineering B.Sc. at the University of Tehran"
-  location         : "Tehran, Iran"
+  # bio              : "Computer Engineering B.Sc. at the University of Tehran"
+  bio              : "Computer Science and Engineering M.Sc. at the Politecnico di Milano"
+  # location         : "Tehran, Iran"
+  location         : "Milan, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
