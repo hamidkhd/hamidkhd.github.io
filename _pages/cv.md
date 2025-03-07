@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-![image](https://github.com/user-attachments/assets/9590901f-90f1-41eb-adc4-e454f565c7d1)
-![image](https://github.com/user-attachments/assets/4272b73e-ea04-49a7-a689-7189ecd31fd7)
-![image](https://github.com/user-attachments/assets/30b2de91-ee15-4a5a-970f-a5214e47877a)
+![image](https://github.com/user-attachments/assets/8a6c81f3-e683-4f34-8735-c59333e0eef1)
+![image](https://github.com/user-attachments/assets/92f84f16-2ac1-44c1-8a62-1fe860857b6c)
+![image](https://github.com/user-attachments/assets/cdd9daa3-0233-4457-8901-308e73e90bea)
